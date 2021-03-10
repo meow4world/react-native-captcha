@@ -8,11 +8,11 @@
 
 ## 1. 安装
 
-`$ npm install react-native-captcha --save`
+`$ npm install react-native-captcha-yidun --save`
 
 or
 
-`$ yarn add react-native-captcha`
+`$ yarn add react-native-captcha-yidun`
 
 ## 2. 配置
 
