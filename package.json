@@ -1,0 +1,41 @@
+{
+  "name": "react-native-captcha",
+  "title": "React Native Captcha",
+  "version": "1.0.0",
+  "description": "Captcha of yidun, for react native",
+  "main": "index.js",
+  "types": "index.d.ts",
+  "files": [
+    "README.md",
+    "android",
+    "index.js",
+    "ios",
+    "react-native-captcha.podspec"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meow4world/react-native-captcha.git",
+    "baseUrl": "https://github.com/meow4world/react-native-captcha"
+  },
+  "keywords": [
+    "react-native"
+  ],
+  "author": {
+    "name": "meow4world",
+    "email": "onlysd1@163.com"
+  },
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "readmeFilename": "README.md",
+  "peerDependencies": {
+    "react": "^16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  }
+}
