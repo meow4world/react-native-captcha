@@ -1,3 +1,4 @@
+
 # react-native-captcha
 
 ## 声明
@@ -31,8 +32,8 @@ cd ios && pod install
 
 ### 3.1 js
 
-参考：[index.js](https://github.com/meow4world/react-native-captcha/master/index.js)
+参考：[index.js](https://github.com/meow4world/react-native-captcha/blob/main/index.js)
 
 ### 3.2 example
 
-参考：[App.js](https://github.com/meow4world/react-native-captcha/master/example/App.js)
+参考：[App.js](https://github.com/meow4world/react-native-captcha/blob/main/example/App.js)
